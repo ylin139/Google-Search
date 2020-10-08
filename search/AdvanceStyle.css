@@ -1,0 +1,35 @@
+*
+{
+  marin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'arial', sans-serif;
+}
+.main
+{
+  max-width: 500px;
+  margin: auto;
+}
+.AdvanceSearch
+{
+  color:red;
+  font-size: 33px;
+}
+.body
+{
+  position: relative;
+  width: 100%;
+  margin-top: 20px;
+}
+.body input
+{
+
+    width: 100%;
+    padding: 13px;
+    padding-left: 45px;
+    padding-right: 60px;
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 16px;
+}
